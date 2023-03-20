@@ -32,14 +32,97 @@ nav a.active{
     color: var(--color-bg);
 }
 
-/* ====================== Media Queries (Small Devices) ======================= */
-  
-@media screen and (max-width: 800px) {
+/* ====================== Media Queries (Medium Devices) ======================= */
+
+@media only screen and (max-width: 1024px) {
     nav{
-        width: 98%;
+        width: 50%;
     }
 
     nav a{
-        padding: 0.65rem;
+        padding: 0.75rem;
+    }
+}
+
+/* @media only screen and (min-width: 768px) {
+    nav{
+        width: 50%;
+    }
+
+    nav a{
+        padding: 0.75rem;
     }
   }
+
+@media only screen and (min-width: 992px) {
+    nav{
+        width: 50%;
+    }
+
+    nav a{
+        padding: 0.75rem;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    nav{
+        width: 50%;
+    }
+
+    nav a{
+        padding: 0.75rem;
+    }
+  } */
+
+/* ====================== Media Queries (Small Devices) ======================= */
+  
+@media only screen and (max-width: 900px) {
+    nav{
+        width: 94%;
+    }
+
+    nav a{
+        padding: 0.46rem;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    nav{
+        width: 82%;
+    }
+
+    nav a{
+        padding: 0.27rem;
+    }
+  }
+
+  @media screen and (max-width: 330px) {
+    nav{
+        width: 90%;
+    }
+
+    nav a{
+        padding: 0.25rem;
+    }
+  }
+
+  /* @media only screen and (max-width: 600px) {
+    nav{
+        width: 90%;
+    }
+
+    nav a{
+        padding: 0.25rem;
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+    nav{
+        width: 82%;
+    }
+
+    nav a{
+        padding: 0.27rem;
+    }
+  } */
+  
