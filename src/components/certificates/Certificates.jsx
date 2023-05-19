@@ -3,6 +3,7 @@ import './certificates.css'
 
 import IMG1 from '../../assets/python.png'
 import IMG2 from '../../assets/intro to ML.png'
+import IMG3 from '../../assets/Data Science Certification Program.png'
 
 const data = [
   {
@@ -16,6 +17,12 @@ const data = [
     image: IMG2,
     title: "Intro to Machine Learning (Kaggle's 30 Days ML Program)",
     drive: 'https://drive.google.com/file/d/1H5ETl8KAKKv6CKAEcd4LXWhc7X3_gGt5/view'
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Data Science Certificate Program",
+    drive: 'https://drive.google.com/file/d/1j2KMsOYsjyc3zlnBsneljbqcpQXZNBP2/view'
   }
 ]
 
