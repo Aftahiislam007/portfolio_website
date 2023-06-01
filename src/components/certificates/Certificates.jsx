@@ -21,7 +21,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Data Science Certificate Program",
+    title: "Data Science Certificate Program", 
     drive: 'https://drive.google.com/file/d/1j2KMsOYsjyc3zlnBsneljbqcpQXZNBP2/view'
   }
 ]

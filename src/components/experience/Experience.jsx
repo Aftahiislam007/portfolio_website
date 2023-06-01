@@ -16,7 +16,7 @@ const Experience = () => {
             </div>
 
             <ul className='experience__list'>
-              <h4><b>Duration :</b>  July 01, 2022 - Present</h4><br />
+              <h4><b>Duration :</b>  May 22, 2022 - November 30, 2022</h4><br />
               <h4><b><i>Job Responsibilities :</i></b></h4><br />
               <li>
                 <BiCheck className='experience__list-icon'/>
